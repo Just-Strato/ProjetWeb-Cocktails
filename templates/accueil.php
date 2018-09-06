@@ -266,7 +266,7 @@ if (basename($_SERVER["PHP_SELF"]) != "index.php")
                   </a>
                 </li>
                 <li class="list-inline-item">
-                  <a href="#">
+                  <a href="https://www.facebook.com/thom.bagnato">
                     <i class="fab fa-facebook-f"></i>
                   </a>
                 </li>
@@ -290,7 +290,7 @@ if (basename($_SERVER["PHP_SELF"]) != "index.php")
                   </a>
                 </li>
                 <li class="list-inline-item">
-                  <a href="#">
+                  <a href="https://www.facebook.com/drakox211">
                     <i class="fab fa-facebook-f"></i>
                   </a>
                 </li>
@@ -314,7 +314,7 @@ if (basename($_SERVER["PHP_SELF"]) != "index.php")
                   </a>
                 </li>
                 <li class="list-inline-item">
-                  <a href="#">
+                  <a href="https://www.facebook.com/bador.russor">
                     <i class="fab fa-facebook-f"></i>
                   </a>
                 </li>
